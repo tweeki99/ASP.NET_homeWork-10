@@ -1,0 +1,14 @@
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\bin\Debug\netcoreapp2.2\HomeWork10.deps.json
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\bin\Debug\netcoreapp2.2\HomeWork10.runtimeconfig.json
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\bin\Debug\netcoreapp2.2\HomeWork10.runtimeconfig.dev.json
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\bin\Debug\netcoreapp2.2\HomeWork10.dll
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\bin\Debug\netcoreapp2.2\HomeWork10.pdb
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.RazorAssemblyInfo.cache
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.RazorAssemblyInfo.cs
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.AssemblyInfoInputs.cache
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.AssemblyInfo.cs
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.RazorTargetAssemblyInfo.cache
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.dll
+C:\Users\Shipa\source\repos\HomeWork10\HomeWork10\obj\Debug\netcoreapp2.2\HomeWork10.pdb
